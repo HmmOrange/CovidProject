@@ -28,4 +28,4 @@ async def on_ready():
                 print(f"{filename}: not ok!! - {e}")
     client.load_extension("jishaku")
 
-client.run('OTYwMTYxOTUxMDYzODgzNzk3.YkmagA.3D7XsP09odp8HACLbRQTCSdofPg')
+client.run('')
